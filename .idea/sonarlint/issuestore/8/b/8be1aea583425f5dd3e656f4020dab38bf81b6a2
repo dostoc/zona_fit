@@ -1,8 +1,12 @@
 
-‹
-java:S2583"CChange this condition so that it does not always evaluate to "true"(ÿ«„¦øÿÿÿÿ8÷’¯Ï2J$a3bf84d6-5c81-40de-858f-1c42c4820c22
-y
-java:S6437"6Revoke and change this password, as it is compromised.(Ñ«—Ù8¶Ï2J$326c430a-a51c-4c67-b296-d85093abb256
-r	java:S106"+Replace this use of System.out by a logger.(ˆÊÑ»ûÿÿÿÿ8¸Ï2J$771fd2f9-1879-4162-9038-e06df039205c
-m	java:S106"+Replace this use of System.out by a logger.(ğ¬¿ş8¹Ï2J$81f21f55-70e1-4976-a2ed-4a63b65fd27a
-r	java:S106!"+Replace this use of System.out by a logger.(äÌµ¶ıÿÿÿÿ8€“¯Ï2J$f4fdc546-261a-403d-8bb9-491fe393a406
+Z
+java:S1700"Rename field "conexion"(ˆãŒ8ê¤Ä‡2J$9076527f-e470-4b23-8e9a-4da8620e66d3
+~
+java:S6437"6Revoke and change this password, as it is compromised.(ÅõÑÇûÿÿÿÿ8Œ¥Ä‡2J$f81772cb-0c06-4bb1-9cd9-1fa3ea9d4ea9
+m	java:S106"+Replace this use of System.out by a logger.(Ã–ç€8¥Ä‡2J$fbabeb95-195b-4836-9748-190c45fcbc1f
+m	java:S106"+Replace this use of System.out by a logger.(èšâÜ8¥Ä‡2J$8656fddd-b5c8-4054-970b-9935ed85ead1
+r	java:S106"+Replace this use of System.out by a logger.(Ó½÷ôüÿÿÿÿ8¥Ä‡2J$5c29a7c0-ca42-450f-82d3-81cdcd2607d2
+l	java:S106%"+Replace this use of System.out by a logger.(°ïü_8’¥Ä‡2J$c5712177-7d79-4c47-89d6-751cea8db960
+r	java:S106'"+Replace this use of System.out by a logger.(§´Òùÿÿÿÿ8’¥Ä‡2J$dbb62877-ebff-4fef-8d8f-64bb1b0cd6ae
+r	java:S1062"+Replace this use of System.out by a logger.(„’ªÏùÿÿÿÿ8•¥Ä‡2J$19953c95-03b3-4c4c-9845-bae9b2e68c6a
+r	java:S1064"+Replace this use of System.out by a logger.(äÌµ¶ıÿÿÿÿ8–¥Ä‡2J$198305f4-a34d-4359-ade5-1716a6d6f4b5

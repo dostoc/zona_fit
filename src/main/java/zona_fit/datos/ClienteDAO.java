@@ -37,6 +37,7 @@ public class ClienteDAO implements IClienteDAO {
 
     @Override
     public boolean buscarClientePorId(Cliente cliente) {
+
         return false;
     }
 
