@@ -13,18 +13,19 @@ public interface DAO<T, K> {
     void insertar(T generico);
 
 
-    // leer
-    List<T> listar();
-
-    T obtener(K id);
-
-
     // modificar
     void modificar(T generico);
 
 
     // borrar
     void borrar(T generico);
+
+    // leer
+
+    List<T> listar();
+
+    T obtener(K id);
+
 
 
 
