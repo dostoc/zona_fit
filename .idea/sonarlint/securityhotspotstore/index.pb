@@ -66,3 +66,5 @@ U
 +src/main/java/zona_fit/dao/IClienteDAO.java,4\e\4eb4bc5e82dbd1506081df6ccb3cd8270526567f
 e
 5src/main/java/zona_fit/dao/mysql/MySqlClienteDAO.java,f\6\f6027fb55fa88f35c38a9f151689a176caa6c7d0
+G
+src/main/java/Main.java,e\4\e44a8606ce010ad9b89aafdfcee2ab49afbf6d10

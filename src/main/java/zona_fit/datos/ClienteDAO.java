@@ -14,6 +14,7 @@ public class ClienteDAO implements IClienteDAO {
     @Override
     public List<Cliente> listarClientes() {
         List<Cliente> clientes = new ArrayList<>();
+
         String sql = "SELECT * FROM cliente ORDER BY id";
 
         try (Connection con = Conexion.getConexion();

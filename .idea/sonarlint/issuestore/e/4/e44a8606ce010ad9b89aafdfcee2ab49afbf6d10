@@ -1,0 +1,19 @@
+
+]
+java:S1220""Move this file to a named package.8Óà¼×2J$eafe3033-05cc-448a-94e4-692c3027ac71
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ŸòàØ2J$e101ea9f-db56-48c1-b1d6-f7c62fd0706a
+s
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8£òàØ2J$bc222ed6-52dc-4b05-a763-f580a6f6a759
+v
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8£òàØ2J$f5eb99d3-9543-45bf-bff0-15df7c78d566
+
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8¤òàØ2J$24515adc-82ce-4cb6-9677-ac57ea7b4b0a
+u
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8¤òàØ2J$3628526d-0b52-499e-a131-aac0d72c831d
+t
+java:S1128"1Remove this unused import 'java.util.Properties'.(¬µ²8¤òàØ2J$641f9181-dee8-4267-a46e-9dd8dd3cabc3
+w
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8¤òàØ2J$c3a0f87c-6afb-4f86-9b66-2ec8a787b6a4
+x
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8¤òàØ2J$a5763a3c-4f53-47f8-a8c5-cfdfd71f6e7b

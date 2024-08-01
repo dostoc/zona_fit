@@ -1,11 +1,17 @@
 package zona_fit.dao.mysql;
 
+import com.sun.tools.javac.Main;
 import zona_fit.dao.IClienteDAO;
 import zona_fit.dominio.Cliente;
 
 import java.sql.Connection;
+import java.sql.DriverManager;
 import java.sql.PreparedStatement;
+import java.sql.SQLException;
 import java.util.List;
+import java.util.Properties;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class MySqlClienteDAO implements IClienteDAO {
 
@@ -25,14 +31,6 @@ public class MySqlClienteDAO implements IClienteDAO {
 
     @Override
     public void insertar(Cliente generico) {
-        PreparedStatement pS = null;
-        try {
-
-        } catch (SQLException) {
-
-        } finally {
-            
-        }
 
     }
 
